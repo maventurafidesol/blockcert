@@ -5,7 +5,7 @@
   "issuer": "https://raw.githubusercontent.com/maventurafidesol/blockcert/main/issuer.json",
   "revokedAssertions": [
     {
-      "id": "urn:uuid:025d84c5-b429-4ce8-9c31-9856dd5b07ee",
+      "id": "urn:uuid:e6fb5b93-d152-42dc-941d-5711c21239d2",
       "revocationReason": "Honor code violation"
     }
   ]
