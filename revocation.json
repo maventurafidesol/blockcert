@@ -1,0 +1,12 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "id": "https://raw.githubusercontent.com/maventurafidesol/blockcert/main/revocation.json",
+  "type": "RevocationList",
+  "issuer": "https://raw.githubusercontent.com/maventurafidesol/blockcert/main/issuer.json",
+  "revokedAssertions": [
+    {
+      "id": "urn:uuid:025d84c5-b429-4ce8-9c31-9856dd5b07ee",
+      "revocationReason": "Honor code violation"
+    }
+  ]
+}
