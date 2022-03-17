@@ -1,12 +1,1 @@
-{
-  "@context": "https://w3id.org/openbadges/v2",
-  "id": "https://raw.githubusercontent.com/maventurafidesol/blockcert/main/revocation.json",
-  "type": "RevocationList",
-  "issuer": "https://raw.githubusercontent.com/maventurafidesol/blockcert/main/issuer.json",
-  "revokedAssertions": [
-    {
-      "id": "urn:uuid:e6fb5b93-d152-42dc-941d-5711c21239d2",
-      "revocationReason": "Honor code violation"
-    }
-  ]
-}
+{"@context": "https://w3id.org/openbadges/v2", "id": "https://raw.githubusercontent.com/maventurafidesol/blockcert/main/revocation.json", "type": "RevocationList", "issuer": "https://raw.githubusercontent.com/maventurafidesol/blockcert/main/issuer.json", "revokedAssertions": [{"id": "urn:uuid:e6fb5b93-d152-42dc-941d-5711c21239d2", "revocationReason": "Honor code violation"}, {"id": "urn:uuid:780d3f24-9057-4019-b00a-a2e12763850f", "revocationReason": "Revocacion manual por la entidad emisora"}]}
