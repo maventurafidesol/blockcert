@@ -11,7 +11,7 @@
   "publicKey": [
     {
       "id": "ecdsa-koblitz-pubkey:0x87527590dccdd07b966c789559e4afad2de1df3a",
-      "created": "2022-03-28T12:16:58.652887+00:00"
+      "created": "2022-03-28T12:25:50Z"
     }
   ],
   "revocationList": "https://raw.githubusercontent.com/maventurafidesol/blockcert/main/revocation.json",
